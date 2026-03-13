@@ -1,0 +1,347 @@
+year,country,incident_type,victims,event
+2016,Australia,Property Damage,15,Pre-COVID
+2016,Canada,Property Damage,21,Pre-COVID
+2016,UK,Workplace Discrimination,23,Pre-COVID
+2016,Canada,Workplace Discrimination,24,Pre-COVID
+2016,Germany,Online Harassment,8,Pre-COVID
+2016,Canada,Property Damage,2,Pre-COVID
+2016,Australia,Physical Assault,21,Pre-COVID
+2016,USA,Online Harassment,22,Pre-COVID
+2016,Germany,Online Harassment,17,Pre-COVID
+2016,Canada,Workplace Discrimination,10,Pre-COVID
+2016,Australia,Online Harassment,16,Pre-COVID
+2016,France,Workplace Discrimination,12,Pre-COVID
+2016,Australia,Verbal Abuse,3,Pre-COVID
+2016,Germany,Workplace Discrimination,7,Pre-COVID
+2016,Germany,Verbal Abuse,7,Pre-COVID
+2016,UK,Online Harassment,14,Pre-COVID
+2016,UK,Physical Assault,9,Pre-COVID
+2016,UK,Property Damage,2,Pre-COVID
+2016,Australia,Online Harassment,15,Pre-COVID
+2016,Australia,Online Harassment,8,Pre-COVID
+2016,Canada,Verbal Abuse,4,Pre-COVID
+2016,UK,Online Harassment,2,Pre-COVID
+2016,France,Physical Assault,4,Pre-COVID
+2016,France,Property Damage,18,Pre-COVID
+2016,France,Online Harassment,8,Pre-COVID
+2016,Germany,Property Damage,18,Pre-COVID
+2016,Germany,Physical Assault,13,Pre-COVID
+2016,USA,Property Damage,15,Pre-COVID
+2016,USA,Verbal Abuse,12,Pre-COVID
+2016,Canada,Workplace Discrimination,17,Pre-COVID
+2016,Canada,Workplace Discrimination,1,Pre-COVID
+2016,Canada,Property Damage,10,Pre-COVID
+2016,UK,Verbal Abuse,7,Pre-COVID
+2016,USA,Online Harassment,2,Pre-COVID
+2016,USA,Property Damage,3,Pre-COVID
+2016,Australia,Workplace Discrimination,3,Pre-COVID
+2016,USA,Workplace Discrimination,5,Pre-COVID
+2017,France,Workplace Discrimination,1,Pre-COVID
+2017,Germany,Physical Assault,23,Pre-COVID
+2017,France,Workplace Discrimination,9,Pre-COVID
+2017,UK,Physical Assault,13,Pre-COVID
+2017,Canada,Verbal Abuse,20,Pre-COVID
+2017,Germany,Online Harassment,5,Pre-COVID
+2017,Germany,Workplace Discrimination,4,Pre-COVID
+2017,Germany,Workplace Discrimination,19,Pre-COVID
+2017,France,Online Harassment,2,Pre-COVID
+2017,UK,Property Damage,21,Pre-COVID
+2017,France,Online Harassment,12,Pre-COVID
+2017,Australia,Online Harassment,11,Pre-COVID
+2017,UK,Online Harassment,7,Pre-COVID
+2017,France,Verbal Abuse,1,Pre-COVID
+2017,USA,Workplace Discrimination,20,Pre-COVID
+2017,Germany,Verbal Abuse,3,Pre-COVID
+2017,France,Property Damage,1,Pre-COVID
+2017,Canada,Physical Assault,12,Pre-COVID
+2017,USA,Verbal Abuse,20,Pre-COVID
+2017,Australia,Physical Assault,3,Pre-COVID
+2017,USA,Property Damage,17,Pre-COVID
+2017,USA,Workplace Discrimination,17,Pre-COVID
+2017,UK,Physical Assault,22,Pre-COVID
+2017,Germany,Verbal Abuse,1,Pre-COVID
+2017,Canada,Physical Assault,21,Pre-COVID
+2017,Australia,Physical Assault,6,Pre-COVID
+2017,Australia,Workplace Discrimination,24,Pre-COVID
+2017,Canada,Verbal Abuse,6,Pre-COVID
+2017,Germany,Online Harassment,2,Pre-COVID
+2017,France,Workplace Discrimination,16,Pre-COVID
+2017,USA,Verbal Abuse,6,Pre-COVID
+2017,Germany,Workplace Discrimination,20,Pre-COVID
+2017,Australia,Workplace Discrimination,4,Pre-COVID
+2017,Canada,Physical Assault,3,Pre-COVID
+2017,Canada,Online Harassment,7,Pre-COVID
+2017,Australia,Verbal Abuse,1,Pre-COVID
+2017,UK,Verbal Abuse,11,Pre-COVID
+2017,Australia,Verbal Abuse,18,Pre-COVID
+2018,France,Physical Assault,3,Pre-COVID
+2018,Australia,Physical Assault,16,Pre-COVID
+2018,USA,Online Harassment,17,Pre-COVID
+2018,UK,Verbal Abuse,16,Pre-COVID
+2018,France,Online Harassment,5,Pre-COVID
+2018,Germany,Workplace Discrimination,23,Pre-COVID
+2018,USA,Verbal Abuse,3,Pre-COVID
+2018,Canada,Workplace Discrimination,20,Pre-COVID
+2018,France,Verbal Abuse,24,Pre-COVID
+2018,Australia,Workplace Discrimination,17,Pre-COVID
+2018,Australia,Online Harassment,3,Pre-COVID
+2018,France,Verbal Abuse,3,Pre-COVID
+2018,USA,Property Damage,18,Pre-COVID
+2018,France,Physical Assault,2,Pre-COVID
+2018,France,Workplace Discrimination,16,Pre-COVID
+2018,Germany,Verbal Abuse,4,Pre-COVID
+2018,USA,Online Harassment,1,Pre-COVID
+2018,France,Property Damage,16,Pre-COVID
+2018,USA,Online Harassment,19,Pre-COVID
+2018,France,Property Damage,19,Pre-COVID
+2018,France,Workplace Discrimination,2,Pre-COVID
+2018,Germany,Verbal Abuse,15,Pre-COVID
+2018,USA,Property Damage,16,Pre-COVID
+2018,Canada,Online Harassment,3,Pre-COVID
+2018,USA,Verbal Abuse,12,Pre-COVID
+2018,Australia,Property Damage,14,Pre-COVID
+2018,Germany,Workplace Discrimination,9,Pre-COVID
+2018,Germany,Property Damage,17,Pre-COVID
+2018,France,Property Damage,3,Pre-COVID
+2018,Australia,Verbal Abuse,20,Pre-COVID
+2018,Germany,Property Damage,23,Pre-COVID
+2018,USA,Workplace Discrimination,18,Pre-COVID
+2018,USA,Physical Assault,22,Pre-COVID
+2018,UK,Workplace Discrimination,8,Pre-COVID
+2018,France,Physical Assault,15,Pre-COVID
+2018,France,Physical Assault,10,Pre-COVID
+2018,UK,Physical Assault,17,Pre-COVID
+2018,USA,Verbal Abuse,11,Pre-COVID
+2018,France,Property Damage,10,Pre-COVID
+2019,UK,Workplace Discrimination,18,Pre-COVID
+2019,USA,Property Damage,7,Pre-COVID
+2019,USA,Online Harassment,13,Pre-COVID
+2019,Australia,Verbal Abuse,8,Pre-COVID
+2019,France,Online Harassment,19,Pre-COVID
+2019,Australia,Physical Assault,2,Pre-COVID
+2019,France,Workplace Discrimination,22,Pre-COVID
+2019,UK,Physical Assault,22,Pre-COVID
+2019,USA,Online Harassment,10,Pre-COVID
+2019,France,Workplace Discrimination,5,Pre-COVID
+2019,USA,Property Damage,12,Pre-COVID
+2019,Australia,Property Damage,7,Pre-COVID
+2019,Australia,Property Damage,20,Pre-COVID
+2019,France,Workplace Discrimination,23,Pre-COVID
+2019,Australia,Property Damage,18,Pre-COVID
+2019,Australia,Physical Assault,19,Pre-COVID
+2019,USA,Workplace Discrimination,23,Pre-COVID
+2019,UK,Property Damage,21,Pre-COVID
+2019,France,Verbal Abuse,12,Pre-COVID
+2019,Germany,Verbal Abuse,1,Pre-COVID
+2019,UK,Verbal Abuse,8,Pre-COVID
+2019,Germany,Property Damage,1,Pre-COVID
+2019,Germany,Property Damage,22,Pre-COVID
+2019,Germany,Workplace Discrimination,12,Pre-COVID
+2019,UK,Workplace Discrimination,5,Pre-COVID
+2019,France,Verbal Abuse,14,Pre-COVID
+2019,Australia,Property Damage,15,Pre-COVID
+2019,USA,Online Harassment,5,Pre-COVID
+2019,Australia,Physical Assault,16,Pre-COVID
+2019,Germany,Online Harassment,1,Pre-COVID
+2019,France,Property Damage,23,Pre-COVID
+2019,Germany,Online Harassment,2,Pre-COVID
+2019,UK,Verbal Abuse,24,Pre-COVID
+2019,Germany,Property Damage,4,Pre-COVID
+2019,UK,Verbal Abuse,20,Pre-COVID
+2019,Australia,Physical Assault,3,Pre-COVID
+2019,Australia,Verbal Abuse,1,Pre-COVID
+2019,Germany,Workplace Discrimination,11,Pre-COVID
+2020,Germany,Online Harassment,3,COVID Pandemic
+2020,USA,Verbal Abuse,8,COVID Pandemic
+2020,UK,Workplace Discrimination,12,COVID Pandemic
+2020,Germany,Property Damage,12,COVID Pandemic
+2020,France,Physical Assault,19,COVID Pandemic
+2020,UK,Workplace Discrimination,23,COVID Pandemic
+2020,USA,Physical Assault,8,COVID Pandemic
+2020,Germany,Physical Assault,10,COVID Pandemic
+2020,UK,Physical Assault,19,COVID Pandemic
+2020,USA,Online Harassment,21,COVID Pandemic
+2020,UK,Property Damage,11,COVID Pandemic
+2020,Germany,Online Harassment,21,COVID Pandemic
+2020,Germany,Verbal Abuse,4,COVID Pandemic
+2020,UK,Property Damage,9,COVID Pandemic
+2020,Canada,Verbal Abuse,3,COVID Pandemic
+2020,Australia,Physical Assault,17,COVID Pandemic
+2020,France,Property Damage,12,COVID Pandemic
+2020,USA,Property Damage,23,COVID Pandemic
+2020,USA,Workplace Discrimination,9,COVID Pandemic
+2020,France,Verbal Abuse,17,COVID Pandemic
+2020,France,Online Harassment,16,COVID Pandemic
+2020,USA,Property Damage,19,COVID Pandemic
+2020,USA,Online Harassment,12,COVID Pandemic
+2020,Germany,Verbal Abuse,19,COVID Pandemic
+2020,Australia,Verbal Abuse,7,COVID Pandemic
+2020,Australia,Online Harassment,19,COVID Pandemic
+2020,UK,Property Damage,5,COVID Pandemic
+2020,Canada,Online Harassment,20,COVID Pandemic
+2020,Canada,Property Damage,4,COVID Pandemic
+2020,Germany,Verbal Abuse,7,COVID Pandemic
+2020,Germany,Property Damage,10,COVID Pandemic
+2020,UK,Physical Assault,5,COVID Pandemic
+2020,Canada,Property Damage,11,COVID Pandemic
+2020,Canada,Physical Assault,15,COVID Pandemic
+2020,Australia,Verbal Abuse,10,COVID Pandemic
+2020,UK,Online Harassment,17,COVID Pandemic
+2020,Germany,Property Damage,8,COVID Pandemic
+2020,UK,Verbal Abuse,18,COVID Pandemic
+2020,Canada,Physical Assault,2,COVID Pandemic
+2020,Germany,Property Damage,5,COVID Pandemic
+2021,France,Workplace Discrimination,8,COVID Pandemic
+2021,Germany,Verbal Abuse,22,COVID Pandemic
+2021,Australia,Verbal Abuse,7,COVID Pandemic
+2021,USA,Property Damage,4,COVID Pandemic
+2021,Australia,Online Harassment,19,COVID Pandemic
+2021,Germany,Online Harassment,22,COVID Pandemic
+2021,Canada,Physical Assault,19,COVID Pandemic
+2021,France,Workplace Discrimination,13,COVID Pandemic
+2021,Germany,Physical Assault,20,COVID Pandemic
+2021,Australia,Property Damage,9,COVID Pandemic
+2021,USA,Workplace Discrimination,13,COVID Pandemic
+2021,Australia,Verbal Abuse,17,COVID Pandemic
+2021,USA,Verbal Abuse,6,COVID Pandemic
+2021,Germany,Physical Assault,12,COVID Pandemic
+2021,Germany,Property Damage,15,COVID Pandemic
+2021,Germany,Property Damage,11,COVID Pandemic
+2021,Australia,Property Damage,4,COVID Pandemic
+2021,Canada,Workplace Discrimination,20,COVID Pandemic
+2021,USA,Physical Assault,15,COVID Pandemic
+2021,USA,Verbal Abuse,14,COVID Pandemic
+2021,USA,Property Damage,22,COVID Pandemic
+2021,France,Workplace Discrimination,16,COVID Pandemic
+2021,USA,Workplace Discrimination,12,COVID Pandemic
+2021,UK,Online Harassment,24,COVID Pandemic
+2021,Australia,Property Damage,8,COVID Pandemic
+2021,UK,Online Harassment,4,COVID Pandemic
+2021,UK,Physical Assault,18,COVID Pandemic
+2021,Australia,Online Harassment,5,COVID Pandemic
+2021,USA,Online Harassment,22,COVID Pandemic
+2021,USA,Verbal Abuse,1,COVID Pandemic
+2021,Germany,Online Harassment,13,COVID Pandemic
+2021,Australia,Property Damage,13,COVID Pandemic
+2021,France,Workplace Discrimination,6,COVID Pandemic
+2021,UK,Workplace Discrimination,5,COVID Pandemic
+2021,USA,Physical Assault,10,COVID Pandemic
+2021,France,Physical Assault,13,COVID Pandemic
+2021,USA,Workplace Discrimination,21,COVID Pandemic
+2021,UK,Verbal Abuse,22,COVID Pandemic
+2022,Canada,Workplace Discrimination,17,Russia-Ukraine War
+2022,Germany,Verbal Abuse,2,Russia-Ukraine War
+2022,USA,Workplace Discrimination,1,Russia-Ukraine War
+2022,Germany,Online Harassment,17,Russia-Ukraine War
+2022,Germany,Property Damage,6,Russia-Ukraine War
+2022,Canada,Property Damage,23,Russia-Ukraine War
+2022,Germany,Property Damage,5,Russia-Ukraine War
+2022,UK,Physical Assault,19,Russia-Ukraine War
+2022,USA,Property Damage,14,Russia-Ukraine War
+2022,USA,Verbal Abuse,19,Russia-Ukraine War
+2022,Germany,Property Damage,4,Russia-Ukraine War
+2022,France,Verbal Abuse,17,Russia-Ukraine War
+2022,UK,Online Harassment,8,Russia-Ukraine War
+2022,UK,Physical Assault,2,Russia-Ukraine War
+2022,France,Workplace Discrimination,18,Russia-Ukraine War
+2022,Australia,Verbal Abuse,22,Russia-Ukraine War
+2022,Australia,Property Damage,17,Russia-Ukraine War
+2022,Germany,Property Damage,14,Russia-Ukraine War
+2022,UK,Workplace Discrimination,19,Russia-Ukraine War
+2022,France,Online Harassment,2,Russia-Ukraine War
+2022,France,Physical Assault,2,Russia-Ukraine War
+2022,UK,Online Harassment,6,Russia-Ukraine War
+2022,USA,Online Harassment,23,Russia-Ukraine War
+2022,UK,Workplace Discrimination,17,Russia-Ukraine War
+2022,UK,Verbal Abuse,10,Russia-Ukraine War
+2022,USA,Online Harassment,20,Russia-Ukraine War
+2022,Germany,Physical Assault,6,Russia-Ukraine War
+2022,Germany,Physical Assault,13,Russia-Ukraine War
+2022,France,Workplace Discrimination,11,Russia-Ukraine War
+2022,Canada,Workplace Discrimination,15,Russia-Ukraine War
+2022,USA,Workplace Discrimination,22,Russia-Ukraine War
+2022,Australia,Online Harassment,24,Russia-Ukraine War
+2022,USA,Workplace Discrimination,3,Russia-Ukraine War
+2022,Canada,Property Damage,18,Russia-Ukraine War
+2022,Germany,Physical Assault,19,Russia-Ukraine War
+2022,Canada,Property Damage,5,Russia-Ukraine War
+2022,UK,Online Harassment,10,Russia-Ukraine War
+2023,USA,Property Damage,9,Global Inflation Crisis
+2023,Australia,Physical Assault,14,Global Inflation Crisis
+2023,UK,Verbal Abuse,14,Global Inflation Crisis
+2023,UK,Property Damage,9,Global Inflation Crisis
+2023,UK,Verbal Abuse,15,Global Inflation Crisis
+2023,USA,Workplace Discrimination,16,Global Inflation Crisis
+2023,Germany,Verbal Abuse,4,Global Inflation Crisis
+2023,USA,Verbal Abuse,3,Global Inflation Crisis
+2023,Germany,Online Harassment,15,Global Inflation Crisis
+2023,France,Physical Assault,23,Global Inflation Crisis
+2023,France,Physical Assault,13,Global Inflation Crisis
+2023,UK,Workplace Discrimination,24,Global Inflation Crisis
+2023,Canada,Workplace Discrimination,15,Global Inflation Crisis
+2023,France,Workplace Discrimination,15,Global Inflation Crisis
+2023,Australia,Property Damage,18,Global Inflation Crisis
+2023,UK,Workplace Discrimination,19,Global Inflation Crisis
+2023,USA,Property Damage,10,Global Inflation Crisis
+2023,USA,Verbal Abuse,7,Global Inflation Crisis
+2023,France,Physical Assault,12,Global Inflation Crisis
+2023,USA,Verbal Abuse,13,Global Inflation Crisis
+2023,Australia,Verbal Abuse,4,Global Inflation Crisis
+2023,UK,Workplace Discrimination,9,Global Inflation Crisis
+2023,Germany,Physical Assault,15,Global Inflation Crisis
+2023,Australia,Physical Assault,15,Global Inflation Crisis
+2023,USA,Online Harassment,19,Global Inflation Crisis
+2023,UK,Verbal Abuse,5,Global Inflation Crisis
+2023,France,Online Harassment,2,Global Inflation Crisis
+2023,Canada,Workplace Discrimination,13,Global Inflation Crisis
+2023,France,Property Damage,1,Global Inflation Crisis
+2023,Germany,Property Damage,6,Global Inflation Crisis
+2023,France,Online Harassment,11,Global Inflation Crisis
+2023,France,Verbal Abuse,23,Global Inflation Crisis
+2023,Canada,Workplace Discrimination,8,Global Inflation Crisis
+2023,Germany,Online Harassment,24,Global Inflation Crisis
+2023,France,Physical Assault,20,Global Inflation Crisis
+2023,Australia,Workplace Discrimination,4,Global Inflation Crisis
+2023,France,Verbal Abuse,24,Global Inflation Crisis
+2023,France,Workplace Discrimination,2,Global Inflation Crisis
+2023,Canada,Physical Assault,19,Global Inflation Crisis
+2023,Germany,Online Harassment,5,Global Inflation Crisis
+2024,France,Physical Assault,22,Post-COVID Recovery
+2024,Australia,Workplace Discrimination,20,Post-COVID Recovery
+2024,USA,Online Harassment,17,Post-COVID Recovery
+2024,Australia,Verbal Abuse,14,Post-COVID Recovery
+2024,France,Property Damage,11,Post-COVID Recovery
+2024,Australia,Property Damage,11,Post-COVID Recovery
+2024,Canada,Verbal Abuse,6,Post-COVID Recovery
+2024,UK,Physical Assault,5,Post-COVID Recovery
+2024,UK,Online Harassment,2,Post-COVID Recovery
+2024,Germany,Physical Assault,20,Post-COVID Recovery
+2024,USA,Property Damage,9,Post-COVID Recovery
+2024,USA,Verbal Abuse,11,Post-COVID Recovery
+2024,France,Workplace Discrimination,17,Post-COVID Recovery
+2024,Germany,Online Harassment,12,Post-COVID Recovery
+2024,UK,Property Damage,24,Post-COVID Recovery
+2024,Canada,Verbal Abuse,2,Post-COVID Recovery
+2024,Australia,Workplace Discrimination,3,Post-COVID Recovery
+2024,USA,Online Harassment,8,Post-COVID Recovery
+2024,Canada,Verbal Abuse,5,Post-COVID Recovery
+2024,France,Online Harassment,3,Post-COVID Recovery
+2024,Germany,Property Damage,5,Post-COVID Recovery
+2024,Canada,Workplace Discrimination,14,Post-COVID Recovery
+2024,UK,Online Harassment,13,Post-COVID Recovery
+2024,UK,Verbal Abuse,18,Post-COVID Recovery
+2024,France,Workplace Discrimination,6,Post-COVID Recovery
+2024,USA,Verbal Abuse,17,Post-COVID Recovery
+2024,USA,Physical Assault,14,Post-COVID Recovery
+2024,Germany,Workplace Discrimination,7,Post-COVID Recovery
+2024,Canada,Workplace Discrimination,7,Post-COVID Recovery
+2024,Canada,Physical Assault,20,Post-COVID Recovery
+2024,Germany,Verbal Abuse,20,Post-COVID Recovery
+2024,France,Workplace Discrimination,4,Post-COVID Recovery
+2024,Germany,Verbal Abuse,1,Post-COVID Recovery
+2024,Germany,Property Damage,23,Post-COVID Recovery
+2024,USA,Online Harassment,22,Post-COVID Recovery
+2024,Canada,Physical Assault,1,Post-COVID Recovery
+2024,France,Property Damage,15,Post-COVID Recovery
+2024,Australia,Property Damage,24,Post-COVID Recovery
+2024,Australia,Property Damage,8,Post-COVID Recovery
